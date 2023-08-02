@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/rafaelbochi">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaelbochi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbochi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbochi&layout=compact&langs_count=7&theme=dracula&hide=html,css,scss"/>
 </div>
 
 <div style="display: flex" ><br>
